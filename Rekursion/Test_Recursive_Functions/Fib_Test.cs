@@ -11,7 +11,6 @@ namespace Test_Recursive_Functions
         }
 
         [Test]
-
         public void Sum_FibRecursiv_ReturnsCorrectNumber()
         {
             Recursion rec = new Recursion();
