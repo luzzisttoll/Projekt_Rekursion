@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rekursion", "Rekursion\Rekursion.csproj", "{D7937A39-A5D0-4A08-8B6C-965992FFE21D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Recursive_Functions", "Test_Recursive_Functions\Test_Recursive_Functions.csproj", "{2443983E-0F67-4533-8CAA-08876423A53A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D7937A39-A5D0-4A08-8B6C-965992FFE21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7937A39-A5D0-4A08-8B6C-965992FFE21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7937A39-A5D0-4A08-8B6C-965992FFE21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2443983E-0F67-4533-8CAA-08876423A53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2443983E-0F67-4533-8CAA-08876423A53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2443983E-0F67-4533-8CAA-08876423A53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2443983E-0F67-4533-8CAA-08876423A53A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
